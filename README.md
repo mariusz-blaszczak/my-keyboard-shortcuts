@@ -14,3 +14,6 @@ https://alacritty.org/config-alacritty-bindings.html
 
 ## Rubymine
 - Close project - `ZZ'
+
+## OSX All Applications
+- Open shortcuts page - `capslock` + `q`
