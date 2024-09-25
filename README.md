@@ -17,3 +17,4 @@ https://alacritty.org/config-alacritty-bindings.html
 
 ## OSX All Applications
 - Open shortcuts page - `capslock` + `q`
+- All words in file will have hints and put cursor in there - `<leader>` + `a`
