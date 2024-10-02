@@ -22,3 +22,7 @@ https://alacritty.org/config-alacritty-bindings.html
 - Open shortcuts page - `capslock` + `q`
 - All words in file will have hints and put cursor in there - `<leader>` + `a`
 - Dictate - `capslock` + `d`
+
+### Screenshot
+- save selection to file - `capslock` + `5`
+- save selection to clipboard - `capslock` + `4`
