@@ -31,3 +31,4 @@ https://alacritty.org/config-alacritty-bindings.html
 ### Emacs
 - beginning of line - `control` + `a`
 - end of line - `control` + `e`
+- Remove text from current point to the end of line - `control` + `k`
