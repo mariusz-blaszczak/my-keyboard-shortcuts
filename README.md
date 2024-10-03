@@ -17,6 +17,7 @@ https://alacritty.org/config-alacritty-bindings.html
 
 ## Rubymine
 - Close project - `ZZ'
+- AceJump go to declaration - `cmd` + `]`
 
 ## OSX All Applications
 - Open shortcuts page - `capslock` + `q`
@@ -26,3 +27,7 @@ https://alacritty.org/config-alacritty-bindings.html
 ### Screenshot
 - save selection to file - `capslock` + `5`
 - save selection to clipboard - `capslock` + `4`
+
+### Emacs
+- beginning of line - `control` + `a`
+- end of line - `control` + `e`
