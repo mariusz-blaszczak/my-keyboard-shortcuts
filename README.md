@@ -18,6 +18,7 @@ https://alacritty.org/config-alacritty-bindings.html
 ## Rubymine
 - Close project - `ZZ'
 - AceJump go to declaration - `cmd` + `]`
+- Github Copilot show suggestion - `control` + `c`
 
 ## OSX All Applications
 - Open shortcuts page - `capslock` + `q`
