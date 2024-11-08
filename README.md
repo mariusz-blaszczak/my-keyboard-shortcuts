@@ -19,6 +19,11 @@ https://alacritty.org/config-alacritty-bindings.html
 - Close project - `ZZ'
 - AceJump go to declaration - `cmd` + `]`
 - Github Copilot show suggestion - `control` + `c`
+- Github Copilot next suggestion - `control` + `n`
+- Github Copilot previous suggestion - `control` + `p` Not imlemented yet
+
+## Teams
+- start call without video - `option` + `shift` + `a`
 
 ## OSX All Applications
 - Open shortcuts page - `capslock` + `q`
@@ -33,3 +38,4 @@ https://alacritty.org/config-alacritty-bindings.html
 - beginning of line - `control` + `a`
 - end of line - `control` + `e`
 - Remove text from current point to the end of line - `control` + `k`
+
