@@ -1,11 +1,7 @@
 # my-keyboard-shortcuts
+- [Teams](teams.md)
+- [Alactitty](alacritty.md)
 
-## Alacritty
-https://alacritty.org/config-alacritty-bindings.html
-### VI Mode
-- Put cursor in the middle - `M`
-- Put cursor in the top/high - `H`
-- Put cursor in the low - `L`
 
 ## SurfingKeys
 - Open URL from history - `oh`
@@ -22,8 +18,6 @@ https://alacritty.org/config-alacritty-bindings.html
 - Github Copilot next suggestion - `control` + `n`
 - Github Copilot previous suggestion - `control` + `p` Not imlemented yet
 
-## Teams
-- start call without video - `option` + `shift` + `a`
 
 ## OSX All Applications
 - Open shortcuts page - `capslock` + `q`
