@@ -1,6 +1,7 @@
 # my-keyboard-shortcuts
 - [Teams](teams.md)
 - [Alactitty](alacritty.md)
+- [Postman](postman.md)
 
 
 ## SurfingKeys
