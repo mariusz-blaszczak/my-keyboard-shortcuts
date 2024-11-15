@@ -1,2 +1,3 @@
 # Teams
-- start call without video - `option` + `shift` + `a`
+- start call without video - `windows(option)` + `shift` + `a`
+- go to chat - `cmd` + `G`
