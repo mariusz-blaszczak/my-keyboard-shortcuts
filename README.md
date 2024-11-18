@@ -2,6 +2,7 @@
 - [Teams](teams.md)
 - [Alactitty](alacritty.md)
 - [Postman](postman.md)
+- [Emacs](emacs.md)
 
 
 ## SurfingKeys
@@ -29,8 +30,4 @@
 - save selection to file - `capslock` + `5`
 - save selection to clipboard - `capslock` + `4`
 
-### Emacs
-- beginning of line - `control` + `a`
-- end of line - `control` + `e`
-- Remove text from current point to the end of line - `control` + `k`
 
