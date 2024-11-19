@@ -3,3 +3,4 @@
 - go to chat - `cmd` + `G`
 - compose message field - `cmd` + `r`
 - Odbierz rozmowę głosową - `cmd` + `shift` + `a`
+- Reagowanie na ostatnią wiadomość - `cmd` + `alt` + `r`
