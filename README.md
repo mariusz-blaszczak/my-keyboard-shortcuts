@@ -3,6 +3,7 @@
 - [Alactitty](alacritty.md)
 - [Postman](postman.md)
 - [Emacs](emacs.md)
+- [tig](tig.md)
 
 
 ## SurfingKeys
